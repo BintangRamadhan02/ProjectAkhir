@@ -1,0 +1,2 @@
+# ProjectAkhir
+stars.read
